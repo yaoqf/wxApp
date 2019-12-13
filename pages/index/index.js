@@ -52,9 +52,4 @@ Page({
       hasUserInfo: true
     })
   },
-  clickMe: function () {
-    this.setData({
-      msg: 'adadads'
-    })
-  }
 })
